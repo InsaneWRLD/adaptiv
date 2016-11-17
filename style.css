@@ -21,7 +21,6 @@ body{
 .container{
     margin: 0 auto;
     width: 80%;
-    background:red;
 }
 .top{
     display: flex;
@@ -66,7 +65,7 @@ width: calc(100%/3);
     }
     .first, .side, .bottom{
         height: 80px;
-        width: calc(100% - 10px);
+        width: calc(100% - 20px);
         line-height:80px;
     }
     .top{
