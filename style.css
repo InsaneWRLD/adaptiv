@@ -21,6 +21,7 @@ body{
 .container{
     margin: 0 auto;
     width: 80%;
+    background:red;
 }
 .top{
     display: flex;
